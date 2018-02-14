@@ -1,0 +1,9 @@
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script defer src="../assets/js/jquery.min.js"></script>
+ <script src="../assets/js/bootstrap.js"></script>
+<script src="../assets/js/bootstrap.min.js"></script>
+<script src="../assets/js/togglebtn.js"></script>
+<script src="../assets/js/taginput.js"></script>
+<script defer src="../assets/font/all.js"></script>
+<!-- <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tagsinput/0.8.0/bootstrap-tagsinput.min.js"></script> -->

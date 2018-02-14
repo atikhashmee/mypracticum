@@ -1,0 +1,46 @@
+/* make sidebar nav vertical */ 
+@media (min-width: 768px) {
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 0;
+    max-height: none;
+  }
+  .sidebar-nav .navbar ul {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+}
+
+.myadmin-container{
+  margin-top: 70px;
+    margin-left: 234px;
+}
+.mynavbar{
+  background: #fff;
+}.mynavbar ul li .active{
+ color: #fffcfc;
+    background-color: #2066fc;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.headerline{
+  width: 100%;
+  background: #fff;
+     min-height: 26px;
+    padding: 5px;
+
+}
+.headerline h1,h2,h3,h4,h5,h6,p{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    text-transform: uppercase;
+}
